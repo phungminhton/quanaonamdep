@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Áo sơ mi &#8211; Yame Shop</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/ao-so-mi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phungminhton.github.io/quanaonamdep</link>
+	<description>Welcome to my Shop!</description>
+	<lastBuildDate>Fri, 02 Jul 2021 06:58:41 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Áo Sơ Mi Tay Dài Đơn Giản N01</title>
+		<link>https://phungminhton.github.io/quanaonamdep/product/so-mi-tay-dai-don-gian-n01/</link>
+					<comments>https://phungminhton.github.io/quanaonamdep/product/so-mi-tay-dai-don-gian-n01/#respond</comments>
+		
+		<dc:creator><![CDATA[PhungMinhTon]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 09:42:48 +0000</pubDate>
+				<guid isPermaLink="false">https://phungminhton.github.io/quanaonamdep/?post_type=product&#038;p=198</guid>
+
+					<description><![CDATA[Chất liệu: Vải cafe (Công nghệ sợi làm từ bã cafe)
+Thành phần: 50% cafe 50% Poly
++ Odor Control - Kiểm soát mùi
++ Fast Drying - Nhanh khô
++ Ice Cool Touch - Làm mát cơ thể
++ UV Protechtion - Chống nắng]]></description>
+										<content:encoded><![CDATA[<p>Chất liệu: Vải cafe (Công nghệ sợi làm từ bã cafe)<br />
+Thành phần: 50% cafe 50% Poly<br />
++ Odor Control &#8211; Kiểm soát mùi<br />
++ Fast Drying &#8211; Nhanh khô<br />
++ Ice Cool Touch &#8211; Làm mát cơ thể<br />
++ UV Protechtion &#8211; Chống nắng</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phungminhton.github.io/quanaonamdep/product/so-mi-tay-dai-don-gian-n01/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

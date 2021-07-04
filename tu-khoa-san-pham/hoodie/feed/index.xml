@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hoodie &#8211; Yame Shop</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/hoodie/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phungminhton.github.io/quanaonamdep</link>
+	<description>Welcome to my Shop!</description>
+	<lastBuildDate>Fri, 02 Jul 2021 06:22:40 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Áo Khoác Hoodie Thần Cổ Đại Anubis Ver1</title>
+		<link>https://phungminhton.github.io/quanaonamdep/product/ao-khoac-hoodie-than-co-dai-anubis-ver1/</link>
+					<comments>https://phungminhton.github.io/quanaonamdep/product/ao-khoac-hoodie-than-co-dai-anubis-ver1/#respond</comments>
+		
+		<dc:creator><![CDATA[PhungMinhTon]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 10:00:53 +0000</pubDate>
+				<guid isPermaLink="false">https://phungminhton.github.io/quanaonamdep/?post_type=product&#038;p=218</guid>
+
+					<description><![CDATA[- Chất liệu:
+MINI ZURRY
+- Thành Phần:
++ 95% COTTON
+Thân thiện với môi trường
+Thoáng mát
++ 5% SPANDEX
+Giúp áo co giãn tối ưu]]></description>
+										<content:encoded><![CDATA[<p>&#8211; Chất liệu:<br />
+MINI ZURRY<br />
+&#8211; Thành Phần:<br />
++ 95% COTTON<br />
+Thân thiện với môi trường<br />
+Thoáng mát<br />
++ 5% SPANDEX<br />
+Giúp áo co giãn tối ưu</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phungminhton.github.io/quanaonamdep/product/ao-khoac-hoodie-than-co-dai-anubis-ver1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
